@@ -12,5 +12,7 @@ This example is to show dofferent parts of the Git repositior and various comman
 
 ## How To Contribute
 
+Please for this repository
+
 ### Copyright
 Git.Training Copywrite 2014
