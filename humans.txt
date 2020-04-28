@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Liam Brydon liam@liam
 
 # THANKS
 
