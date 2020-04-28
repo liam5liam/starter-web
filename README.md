@@ -11,3 +11,6 @@ This example is to show dofferent parts of the Git repositior and various comman
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+Git.Training Copywrite 2014
