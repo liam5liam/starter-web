@@ -16,4 +16,4 @@ This example is to show dofferent parts of the Git repositior and various comman
 Please for this repository
 
 ### Copyright
-Git.Training Copywrite 2014
+Git.Training Copywrite 2014. All rights reaserved 
